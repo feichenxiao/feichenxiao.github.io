@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## 我好帅
 
-You can use the [editor on GitHub](https://github.com/feichenxiao/feichenxiao.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+另外一个网站 [点我过去]([(https://fcx.cool/)]) to eat cookies.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### 嘚不嘚嘚不嘚
+### 牛逼牛逼牛逼
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
