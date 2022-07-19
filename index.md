@@ -1,6 +1,6 @@
 ## 我好帅
 
-另外一个网站 [点我过去]([(https://fcx.cool/)]) to eat cookies.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
