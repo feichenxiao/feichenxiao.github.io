@@ -2,7 +2,7 @@
 
 
 
-Whenever you commit to this repository, GitHub Pages will run [fcxcool](https://fcx.oool/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [fcxcool](https://fcx.cool/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 牛逼牛逼牛逼
 
